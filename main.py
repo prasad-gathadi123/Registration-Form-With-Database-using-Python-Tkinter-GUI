@@ -17,7 +17,7 @@ from email import encoders
 
 
 mydb = mysql.connector.connect(
-		host="localhost",          #this informatio is defferent in your case
+		host="localhost",          #this information is defferent in your case
 		user="root",
 		passwd="",
 		database = "registration"
