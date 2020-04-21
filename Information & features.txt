@@ -9,5 +9,6 @@ This project is the Registration form  with database using python tkinter GUI fo
 - Automatic email varificaton System (if in case user entered wrong Email Id). 
 - MYSQL database for storing User information .
 - Update , Delete , View Facility for user .
+- Everywhere Alert message box in case user doing wrong things
  
 
