@@ -1,0 +1,13 @@
+This project is the Registration form  with database using python tkinter GUI for beginner who want to learn the python tkinter GUI.
+
+
+
+# Features of the project -
+
+- Python light weight Framework.
+- Email facility inform to user after registration is confirmed.
+- Automatic email varificaton System (if in case user entered wrong Email Id). 
+- MYSQL database for storing User information .
+- Update , Delete , View Facility for user .
+ 
+
