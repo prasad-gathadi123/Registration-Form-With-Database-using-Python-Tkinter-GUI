@@ -14,3 +14,4 @@ smtplib
 
 email.mime
 
+Installed with xammp server in pc
